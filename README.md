@@ -30,6 +30,7 @@ Ensure Ruby is installed on your system:
 
 ```bash
 ruby -v
+```
 
 ## How to Run
 
@@ -37,6 +38,7 @@ Navigate to the desired directory and run:
 
 ```bash
 ruby <file_name>.rb
+```
 
 Example:
 
