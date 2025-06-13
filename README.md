@@ -43,6 +43,7 @@ ruby <file_name>.rb
 Example:
 
 ruby week-01-basics/Calculator.rb
+
 ## Contributing
 
 Contributions, improvements, or suggestions are welcomed. Fork the repository, make your changes, and submit a pull request.
