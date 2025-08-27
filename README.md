@@ -42,7 +42,9 @@ ruby <file_name>.rb
 
 Example:
 
+```bash
 ruby week-01-basics/Calculator.rb
+```
 
 ## Contributing
 
